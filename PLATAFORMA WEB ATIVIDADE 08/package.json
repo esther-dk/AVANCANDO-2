@@ -1,0 +1,17 @@
+{
+
+  "name": "plataforma-web-atividade-08",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+     "start": "node index.js"
+  },
+  "author": "esther",
+  "license": "ISC",
+  "description": "",
+
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
